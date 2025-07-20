@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
