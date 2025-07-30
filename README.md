@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
