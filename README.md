@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0151-reverse-words-in-a-string) |
@@ -87,4 +89,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
