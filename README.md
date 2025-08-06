@@ -16,6 +16,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
@@ -100,6 +101,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
