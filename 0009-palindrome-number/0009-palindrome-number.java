@@ -5,10 +5,11 @@ class Solution {
              d=i%10;
            sum=sum*10 + d;
         }
-        if(sum==x)
+        if(sum==x){
             return true ;
-        else 
+        }
+        else {
             return false ;
-        
+        }
     }
 }
