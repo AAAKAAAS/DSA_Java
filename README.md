@@ -72,6 +72,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
