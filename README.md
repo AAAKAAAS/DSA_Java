@@ -43,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
