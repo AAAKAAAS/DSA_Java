@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
+| [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
 | ------- |
