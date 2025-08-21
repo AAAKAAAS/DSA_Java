@@ -47,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
@@ -184,6 +185,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 ## Merge Sort
