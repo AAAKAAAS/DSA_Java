@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AAAKAAAS/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
+| [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
@@ -74,6 +75,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
