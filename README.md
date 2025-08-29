@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 ## String
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
