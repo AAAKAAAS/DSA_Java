@@ -71,6 +71,7 @@
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -113,6 +114,7 @@
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
