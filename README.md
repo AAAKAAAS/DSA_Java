@@ -67,6 +67,7 @@
 | [0263-ugly-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AAAKAAAS/DSA_Java/tree/master/0367-valid-perfect-square) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -150,6 +151,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/AAAKAAAS/DSA_Java/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
