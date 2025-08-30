@@ -70,6 +70,7 @@
 | [0367-valid-perfect-square](https://github.com/AAAKAAAS/DSA_Java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -159,6 +160,7 @@
 | [0162-find-peak-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/AAAKAAAS/DSA_Java/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
