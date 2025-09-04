@@ -77,6 +77,7 @@
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
