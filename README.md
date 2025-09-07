@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/AAAKAAAS/DSA_Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AAAKAAAS/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
