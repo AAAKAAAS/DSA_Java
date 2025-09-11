@@ -61,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AAAKAAAS/DSA_Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
@@ -87,6 +88,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AAAKAAAS/DSA_Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/AAAKAAAS/DSA_Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AAAKAAAS/DSA_Java/tree/master/0058-length-of-last-word) |
