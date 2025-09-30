@@ -32,6 +32,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AAAKAAAS/DSA_Java/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
@@ -83,6 +84,7 @@
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/3830-find-closest-person) |
 ## Hash Table
@@ -113,6 +115,7 @@
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AAAKAAAS/DSA_Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
