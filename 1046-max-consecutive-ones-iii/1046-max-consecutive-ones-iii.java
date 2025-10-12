@@ -3,7 +3,7 @@ class Solution {
         int i=0,z=0,max=0;
         for(int j=0;j<nums.length;j++){
             if(nums[j]==0)z++;
-            while(z>k){
+            if(z>k){
                 if(nums[i]==0)z--;
                 i++;
             }
