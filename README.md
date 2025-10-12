@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
@@ -194,6 +195,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AAAKAAAS/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AAAKAAAS/DSA_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
