@@ -34,6 +34,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -231,6 +232,7 @@
 | [0011-container-with-most-water](https://github.com/AAAKAAAS/DSA_Java/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
