@@ -22,6 +22,7 @@
 | [0162-find-peak-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AAAKAAAS/DSA_Java/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -59,6 +60,7 @@
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -107,6 +109,7 @@
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AAAKAAAS/DSA_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -172,6 +175,7 @@
 | [0016-3sum-closest](https://github.com/AAAKAAAS/DSA_Java/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
@@ -198,6 +202,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/AAAKAAAS/DSA_Java/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AAAKAAAS/DSA_Java/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
