@@ -152,6 +152,7 @@
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
@@ -340,6 +341,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Interactive
 |  |
 | ------- |
@@ -379,4 +382,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
