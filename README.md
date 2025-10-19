@@ -109,6 +109,7 @@
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AAAKAAAS/DSA_Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
@@ -143,6 +144,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AAAKAAAS/DSA_Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +191,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
