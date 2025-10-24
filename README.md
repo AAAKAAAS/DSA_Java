@@ -343,6 +343,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -358,6 +359,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
@@ -375,6 +377,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Combinatorics
@@ -391,6 +394,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Interactive
 |  |
