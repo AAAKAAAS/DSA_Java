@@ -1,15 +1,9 @@
 class Solution {
     public int totalMoney(int n) {
-        int sum=0;
-        int a=0;
-        for(int i=1;i<=n;i++){
-            sum+=(i%7)+a;
-          if(i%7==0){
-             a++;
-             sum+=7;
-          }
-          
-        }
-        return sum;
+       int w = n/7;
+        int r = n % 7;
+        int sumFull = 28*w + 7*(w*(w-1)/2);
+        int SumRem = r*w + r*(r+1)/2;
+        return sumFull + SumRem;
     }
 }
