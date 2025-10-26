@@ -80,6 +80,7 @@
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AAAKAAAS/DSA_Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0101-symmetric-tree) |
@@ -375,6 +378,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0101-symmetric-tree) |
@@ -412,6 +416,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
 ## Enumeration
 |  |
