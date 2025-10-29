@@ -101,6 +101,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
@@ -313,6 +314,7 @@
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Merge Sort
 |  |
 | ------- |
