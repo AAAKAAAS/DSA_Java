@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
@@ -455,6 +457,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
 |  |
