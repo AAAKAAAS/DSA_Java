@@ -77,6 +77,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/3830-find-closest-person) |
 ## Hash Table
@@ -485,4 +487,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
