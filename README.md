@@ -477,6 +477,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
