@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/AAAKAAAS/DSA_Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/AAAKAAAS/DSA_Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
@@ -128,6 +129,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AAAKAAAS/DSA_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AAAKAAAS/DSA_Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/AAAKAAAS/DSA_Java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AAAKAAAS/DSA_Java/tree/master/0141-linked-list-cycle) |
@@ -295,6 +297,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AAAKAAAS/DSA_Java/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AAAKAAAS/DSA_Java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0052-n-queens-ii) |
