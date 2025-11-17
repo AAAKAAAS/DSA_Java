@@ -46,6 +46,7 @@
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AAAKAAAS/DSA_Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
