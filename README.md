@@ -42,6 +42,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AAAKAAAS/DSA_Java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0605-can-place-flowers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AAAKAAAS/DSA_Java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0890-lemonade-change) |
