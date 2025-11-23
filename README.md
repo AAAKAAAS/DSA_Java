@@ -63,6 +63,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AAAKAAAS/DSA_Java/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -313,6 +314,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 ## Greedy
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
+| [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 ## Linked List
 |  |
 | ------- |
