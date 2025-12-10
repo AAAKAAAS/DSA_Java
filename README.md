@@ -130,6 +130,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AAAKAAAS/DSA_Java/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/AAAKAAAS/DSA_Java/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AAAKAAAS/DSA_Java/tree/master/2288-count-operations-to-obtain-zero) |
@@ -513,6 +514,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/AAAKAAAS/DSA_Java/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Quickselect
 |  |
