@@ -59,6 +59,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AAAKAAAS/DSA_Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -369,6 +371,7 @@
 | [0238-product-of-array-except-self](https://github.com/AAAKAAAS/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
