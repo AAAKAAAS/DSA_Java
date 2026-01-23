@@ -113,6 +113,7 @@
 | [0012-integer-to-roman](https://github.com/AAAKAAAS/DSA_Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/AAAKAAAS/DSA_Java/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AAAKAAAS/DSA_Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
@@ -320,6 +321,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/AAAKAAAS/DSA_Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0119-pascals-triangle-ii) |
@@ -507,6 +509,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AAAKAAAS/DSA_Java/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Breadth-First Search
 |  |
