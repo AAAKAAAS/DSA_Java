@@ -211,6 +211,7 @@
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AAAKAAAS/DSA_Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/AAAKAAAS/DSA_Java/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
@@ -334,6 +335,7 @@
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/AAAKAAAS/DSA_Java/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
