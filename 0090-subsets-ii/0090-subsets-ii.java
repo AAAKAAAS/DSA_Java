@@ -1,19 +1,29 @@
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-     List<List<Integer>> res = new ArrayList<>();
-     List<Integer> path = new ArrayList<>();
-     Arrays.sort(nums);
-     solve(path,res,0,nums.length,nums);
-     return res;   
-    }
-    public void solve(List<Integer> path,List<List<Integer>> res,int a,int n,int nums[]){
-        res.add(new ArrayList(path));
-        for(int i=a;i<n;i++){
-            
-           if(i>a&&nums[i]==nums[i-1])continue;
-           path.add(nums[i]);
-            solve(path,res,i+1,n,nums);
-            path.remove(path.size()-1);
+     public void findSubsets(int ind, int[] nums, List<Integer> ds, Set<List<Integer>> result) {
+        // Base case: if all elements are considered, add the subset to the result set
+        if (ind == nums.length) {
+            result.add(new ArrayList<>(ds));
+            return;
         }
+
+        // Choice 1: Include the current element
+        ds.add(nums[ind]);
+        findSubsets(ind + 1, nums, ds, result);
+        // Backtrack by removing the element to explore the other path
+        ds.remove(ds.size() - 1);
+
+        // Choice 2: Do not include the current element
+        findSubsets(ind + 1, nums, ds, result);
+    }
+
+    // Main function to get all unique subsets
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Set<List<Integer>> result = new HashSet<>();
+        // Sort the array to handle duplicates consistently
+        Arrays.sort(nums);
+        findSubsets(0, nums, new ArrayList<>(), result);
+        
+        // Convert the set to a list for the final output
+        return new ArrayList<>(result);
     }
 }
