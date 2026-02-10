@@ -87,6 +87,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -409,6 +412,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -615,4 +619,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
