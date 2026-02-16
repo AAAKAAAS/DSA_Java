@@ -370,6 +370,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
@@ -453,6 +454,7 @@
 | [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
