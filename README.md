@@ -32,6 +32,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0216-combination-sum-iii) |
@@ -384,6 +385,7 @@
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -528,6 +530,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -566,6 +569,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
@@ -632,4 +636,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
