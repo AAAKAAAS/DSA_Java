@@ -240,6 +240,7 @@
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AAAKAAAS/DSA_Java/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
@@ -283,6 +284,7 @@
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AAAKAAAS/DSA_Java/tree/master/0561-array-partition) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/AAAKAAAS/DSA_Java/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -376,6 +378,7 @@
 | [0190-reverse-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
