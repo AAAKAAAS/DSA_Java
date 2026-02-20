@@ -113,6 +113,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
@@ -240,6 +241,7 @@
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AAAKAAAS/DSA_Java/tree/master/0944-delete-columns-to-make-sorted) |
