@@ -224,6 +224,7 @@
 | [0014-longest-common-prefix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AAAKAAAS/DSA_Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AAAKAAAS/DSA_Java/tree/master/0072-edit-distance) |
@@ -257,6 +258,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/AAAKAAAS/DSA_Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
