@@ -534,6 +534,7 @@
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -553,6 +554,7 @@
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
@@ -575,6 +577,7 @@
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Combinatorics
 |  |
