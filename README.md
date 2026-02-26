@@ -212,6 +212,7 @@
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AAAKAAAS/DSA_Java/tree/master/2288-count-operations-to-obtain-zero) |
@@ -253,6 +254,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -487,6 +489,7 @@
 | [0868-binary-gap](https://github.com/AAAKAAAS/DSA_Java/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AAAKAAAS/DSA_Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
