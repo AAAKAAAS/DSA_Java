@@ -70,6 +70,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AAAKAAAS/DSA_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AAAKAAAS/DSA_Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
@@ -414,6 +415,7 @@
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
