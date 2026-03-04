@@ -215,6 +215,7 @@
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -259,6 +260,7 @@
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
@@ -473,6 +475,7 @@
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 ## Bit Manipulation
