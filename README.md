@@ -153,6 +153,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AAAKAAAS/DSA_Java/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/AAAKAAAS/DSA_Java/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
@@ -214,6 +215,7 @@
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2058-concatenation-of-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AAAKAAAS/DSA_Java/tree/master/2288-count-operations-to-obtain-zero) |
@@ -493,6 +495,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Merge Sort
