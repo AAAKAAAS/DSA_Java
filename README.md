@@ -708,4 +708,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
