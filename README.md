@@ -139,6 +139,7 @@
 | [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0204-count-primes) |
