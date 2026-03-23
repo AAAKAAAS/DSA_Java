@@ -718,4 +718,5 @@
 | [0180-consecutive-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/AAAKAAAS/DSA_Java/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
