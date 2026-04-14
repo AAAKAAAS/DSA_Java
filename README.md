@@ -725,4 +725,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/AAAKAAAS/DSA_Java/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/AAAKAAAS/DSA_Java/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
