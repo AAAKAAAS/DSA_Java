@@ -158,6 +158,7 @@
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
+| [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
@@ -397,6 +398,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
