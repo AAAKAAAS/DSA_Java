@@ -26,6 +26,7 @@
 | [0090-subsets-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AAAKAAAS/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
@@ -397,6 +398,7 @@
 | [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/AAAKAAAS/DSA_Java/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AAAKAAAS/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
