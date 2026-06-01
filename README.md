@@ -87,6 +87,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AAAKAAAS/DSA_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AAAKAAAS/DSA_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -327,6 +328,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AAAKAAAS/DSA_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AAAKAAAS/DSA_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
@@ -460,6 +462,7 @@
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AAAKAAAS/DSA_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AAAKAAAS/DSA_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AAAKAAAS/DSA_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
