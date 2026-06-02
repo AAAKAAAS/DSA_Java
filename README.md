@@ -18,6 +18,7 @@
 | [0039-combination-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/AAAKAAAS/DSA_Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AAAKAAAS/DSA_Java/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/AAAKAAAS/DSA_Java/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
