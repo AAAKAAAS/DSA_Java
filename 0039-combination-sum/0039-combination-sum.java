@@ -1,21 +1,20 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-      List<List<Integer>> res= new ArrayList<>();
-     List<Integer>path= new ArrayList<>();
-     solve(0,candidates,target,path,res);
-         return res;
+    List<List<Integer>> a = new ArrayList<>();
+    public List<List<Integer>> combinationSum(int[] cand, int target) {
+        back(new ArrayList<>(),0,cand,target);
+        return a;
     }
-    public void solve(int a,int[]b,int k,List<Integer>path,List<List<Integer>> res){
-        if(k==0){
-            res.add(new ArrayList<>(path));
-            return;
+    public void back(List<Integer> b,int idx,int c[],int target){
+        if(target==0){
+            a.add(new ArrayList<>(b));
+            return ;
         }
-        if(k<0)return;
-        for(int i=a;i<b.length;i++){
-            path.add(b[i]);
-            solve(i,b,k-b[i],path,res);
-            path.remove(path.size()-1);
+        if(target<0)return ;
+        for(int i=idx;i<c.length;i++){
+            if(target-c[i]<0)continue;
+            b.add(c[i]);
+            back(b,i,c,target-c[i]);
+            b.remove(b.size()-1);
         }
     }
-} 
- 
+}
