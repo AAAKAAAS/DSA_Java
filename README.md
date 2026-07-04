@@ -261,6 +261,7 @@
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AAAKAAAS/DSA_Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AAAKAAAS/DSA_Java/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/AAAKAAAS/DSA_Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
@@ -411,6 +412,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AAAKAAAS/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AAAKAAAS/DSA_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0338-counting-bits) |
@@ -712,6 +714,7 @@
 | [0077-combinations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AAAKAAAS/DSA_Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AAAKAAAS/DSA_Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0216-combination-sum-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
