@@ -547,6 +547,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/AAAKAAAS/DSA_Java/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/AAAKAAAS/DSA_Java/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AAAKAAAS/DSA_Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -719,6 +720,7 @@
 | [0090-subsets-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AAAKAAAS/DSA_Java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/AAAKAAAS/DSA_Java/tree/master/0401-binary-watch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
 |  |
