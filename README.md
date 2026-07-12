@@ -771,6 +771,7 @@
 | [0197-rising-temperature](https://github.com/AAAKAAAS/DSA_Java/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/AAAKAAAS/DSA_Java/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/AAAKAAAS/DSA_Java/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AAAKAAAS/DSA_Java/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AAAKAAAS/DSA_Java/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/AAAKAAAS/DSA_Java/tree/master/0595-big-countries) |
