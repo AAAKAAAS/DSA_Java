@@ -778,4 +778,5 @@
 | [0596-classes-with-at-least-5-students](https://github.com/AAAKAAAS/DSA_Java/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/AAAKAAAS/DSA_Java/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/0607-sales-person) |
+| [0608-tree-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
