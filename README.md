@@ -781,4 +781,5 @@
 | [0608-tree-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/AAAKAAAS/DSA_Java/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/AAAKAAAS/DSA_Java/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
