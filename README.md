@@ -784,4 +784,5 @@
 | [0627-swap-sex-of-employees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/AAAKAAAS/DSA_Java/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AAAKAAAS/DSA_Java/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1084-sales-analysis-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
