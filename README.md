@@ -43,6 +43,7 @@
 | [0239-sliding-window-maximum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AAAKAAAS/DSA_Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
@@ -458,6 +459,7 @@
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AAAKAAAS/DSA_Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
@@ -496,6 +498,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AAAKAAAS/DSA_Java/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AAAKAAAS/DSA_Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
@@ -750,6 +753,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AAAKAAAS/DSA_Java/tree/master/0304-range-sum-query-2d-immutable) |
 ## Brainteaser
 |  |
 | ------- |
