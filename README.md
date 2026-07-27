@@ -192,6 +192,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AAAKAAAS/DSA_Java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/AAAKAAAS/DSA_Java/tree/master/3830-find-closest-person) |
@@ -352,6 +353,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AAAKAAAS/DSA_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AAAKAAAS/DSA_Java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3536-maximum-product-of-two-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
