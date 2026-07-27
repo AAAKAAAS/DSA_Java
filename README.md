@@ -56,6 +56,7 @@
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/AAAKAAAS/DSA_Java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AAAKAAAS/DSA_Java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
@@ -177,6 +178,7 @@
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AAAKAAAS/DSA_Java/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -340,6 +342,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AAAKAAAS/DSA_Java/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
