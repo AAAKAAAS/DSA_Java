@@ -63,6 +63,7 @@
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0930-binary-subarrays-with-sum) |
@@ -181,6 +182,7 @@
 | [0504-base-7](https://github.com/AAAKAAAS/DSA_Java/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
@@ -443,6 +445,7 @@
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -815,4 +818,8 @@
 | [1148-article-views-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/AAAKAAAS/DSA_Java/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1174-immediate-food-delivery-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
