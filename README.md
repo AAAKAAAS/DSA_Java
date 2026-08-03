@@ -197,6 +197,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -308,6 +309,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -505,6 +507,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AAAKAAAS/DSA_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AAAKAAAS/DSA_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
