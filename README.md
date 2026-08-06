@@ -198,6 +198,7 @@
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -734,6 +735,7 @@
 | [1925-count-square-sum-triples](https://github.com/AAAKAAAS/DSA_Java/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quickselect
 |  |
 | ------- |
