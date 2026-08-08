@@ -233,6 +233,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -306,6 +307,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AAAKAAAS/DSA_Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -361,6 +363,7 @@
 | [1200-minimum-absolute-difference](https://github.com/AAAKAAAS/DSA_Java/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/AAAKAAAS/DSA_Java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -392,6 +395,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
