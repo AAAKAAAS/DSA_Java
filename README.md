@@ -185,6 +185,7 @@
 | [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AAAKAAAS/DSA_Java/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -301,6 +302,7 @@
 | [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AAAKAAAS/DSA_Java/tree/master/0944-delete-columns-to-make-sorted) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
@@ -834,4 +836,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
