@@ -88,6 +88,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1646-kth-missing-positive-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/AAAKAAAS/DSA_Java/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AAAKAAAS/DSA_Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -146,6 +147,7 @@
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/AAAKAAAS/DSA_Java/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2481-strictly-palindromic-number) |
@@ -238,6 +240,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -372,6 +375,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/AAAKAAAS/DSA_Java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2141-maximum-running-time-of-n-computers) |
