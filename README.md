@@ -75,6 +75,7 @@
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/AAAKAAAS/DSA_Java/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -239,6 +240,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
