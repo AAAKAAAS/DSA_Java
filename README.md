@@ -141,6 +141,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AAAKAAAS/DSA_Java/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0696-count-binary-substrings) |
@@ -292,6 +293,7 @@
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AAAKAAAS/DSA_Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -454,6 +456,7 @@
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AAAKAAAS/DSA_Java/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0474-ones-and-zeroes) |
