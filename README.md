@@ -317,6 +317,7 @@
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AAAKAAAS/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
@@ -625,6 +626,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AAAKAAAS/DSA_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AAAKAAAS/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
