@@ -114,6 +114,7 @@
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AAAKAAAS/DSA_Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -254,6 +255,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -283,6 +285,7 @@
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AAAKAAAS/DSA_Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AAAKAAAS/DSA_Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
@@ -525,6 +528,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/2047-find-a-peak-element-ii) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 ## Greedy
 |  |
