@@ -85,6 +85,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AAAKAAAS/DSA_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AAAKAAAS/DSA_Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -274,6 +275,7 @@
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/1929-concatenation-of-array) |
@@ -352,6 +354,7 @@
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
