@@ -51,6 +51,7 @@
 | [0410-split-array-largest-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AAAKAAAS/DSA_Java/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/AAAKAAAS/DSA_Java/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
