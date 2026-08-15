@@ -689,6 +689,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -712,6 +713,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
@@ -737,6 +739,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Combinatorics
 |  |
@@ -761,6 +764,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Interactive
 |  |
