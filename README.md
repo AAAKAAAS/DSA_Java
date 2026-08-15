@@ -312,6 +312,7 @@
 | [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AAAKAAAS/DSA_Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -355,6 +356,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1441-build-an-array-with-stack-operations) |
@@ -600,6 +602,7 @@
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2050-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/2094-finding-3-digit-even-numbers) |
