@@ -121,6 +121,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/AAAKAAAS/DSA_Java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AAAKAAAS/DSA_Java/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AAAKAAAS/DSA_Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
@@ -288,6 +289,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AAAKAAAS/DSA_Java/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AAAKAAAS/DSA_Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## String
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AAAKAAAS/DSA_Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
 | ------- |
