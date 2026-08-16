@@ -185,6 +185,7 @@
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0268-missing-number) |
@@ -313,6 +314,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0345-reverse-vowels-of-a-string) |
@@ -485,6 +487,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AAAKAAAS/DSA_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
@@ -609,6 +612,7 @@
 | [0206-reverse-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AAAKAAAS/DSA_Java/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
@@ -664,6 +668,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -905,4 +910,8 @@
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
