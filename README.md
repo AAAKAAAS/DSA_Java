@@ -259,6 +259,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/AAAKAAAS/DSA_Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -347,6 +348,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -657,6 +659,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AAAKAAAS/DSA_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AAAKAAAS/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AAAKAAAS/DSA_Java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
 |  |
 | ------- |
