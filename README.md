@@ -184,6 +184,7 @@
 | [0189-rotate-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
@@ -314,6 +315,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AAAKAAAS/DSA_Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
@@ -363,6 +365,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
@@ -610,6 +613,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AAAKAAAS/DSA_Java/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AAAKAAAS/DSA_Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
