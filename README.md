@@ -18,6 +18,7 @@
 | [0039-combination-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/AAAKAAAS/DSA_Java/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AAAKAAAS/DSA_Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
@@ -478,6 +479,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AAAKAAAS/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AAAKAAAS/DSA_Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
@@ -514,6 +516,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AAAKAAAS/DSA_Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0190-reverse-bits) |
