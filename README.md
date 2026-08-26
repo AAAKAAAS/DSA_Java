@@ -131,6 +131,7 @@
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3637-trionic-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -270,6 +271,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
