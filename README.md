@@ -83,6 +83,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1386-cinema-seat-allocation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AAAKAAAS/DSA_Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -254,6 +255,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AAAKAAAS/DSA_Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AAAKAAAS/DSA_Java/tree/master/1657-determine-if-two-strings-are-close) |
@@ -563,6 +565,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1386-cinema-seat-allocation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AAAKAAAS/DSA_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AAAKAAAS/DSA_Java/tree/master/2126-destroying-asteroids) |
@@ -649,6 +652,7 @@
 | [0868-binary-gap](https://github.com/AAAKAAAS/DSA_Java/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AAAKAAAS/DSA_Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
