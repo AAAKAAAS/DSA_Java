@@ -717,6 +717,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -772,6 +773,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -814,6 +816,7 @@
 | [0096-unique-binary-search-trees](https://github.com/AAAKAAAS/DSA_Java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
