@@ -527,6 +527,7 @@
 | [0053-maximum-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -609,6 +610,7 @@
 | [0061-rotate-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/AAAKAAAS/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
@@ -713,6 +715,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -773,6 +776,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -828,6 +832,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
