@@ -374,6 +374,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
@@ -727,6 +728,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -796,6 +798,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AAAKAAAS/DSA_Java/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -850,6 +853,7 @@
 | [0099-recover-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
@@ -902,6 +906,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AAAKAAAS/DSA_Java/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AAAKAAAS/DSA_Java/tree/master/0304-range-sum-query-2d-immutable) |
 ## Brainteaser
 |  |
@@ -969,4 +974,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
