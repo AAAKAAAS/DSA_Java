@@ -611,6 +611,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/AAAKAAAS/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0148-sort-list) |
@@ -719,6 +720,7 @@
 | [0110-balanced-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -747,6 +749,7 @@
 | [0110-balanced-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -782,6 +785,7 @@
 | [0110-balanced-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AAAKAAAS/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -814,6 +818,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AAAKAAAS/DSA_Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/AAAKAAAS/DSA_Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0322-coin-change) |
