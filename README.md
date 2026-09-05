@@ -328,6 +328,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AAAKAAAS/DSA_Java/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/AAAKAAAS/DSA_Java/tree/master/0299-bulls-and-cows) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
@@ -377,6 +378,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AAAKAAAS/DSA_Java/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AAAKAAAS/DSA_Java/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
@@ -734,6 +736,7 @@
 | [0226-invert-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
@@ -808,6 +811,7 @@
 | [0226-invert-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AAAKAAAS/DSA_Java/tree/master/0450-delete-node-in-a-bst) |
