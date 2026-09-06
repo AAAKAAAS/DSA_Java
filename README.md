@@ -66,6 +66,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/AAAKAAAS/DSA_Java/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
@@ -513,6 +514,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/AAAKAAAS/DSA_Java/tree/master/1092-shortest-common-supersequence) |
