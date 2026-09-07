@@ -134,6 +134,7 @@
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3637-trionic-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
@@ -527,6 +528,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AAAKAAAS/DSA_Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AAAKAAAS/DSA_Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3693-climbing-stairs-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
