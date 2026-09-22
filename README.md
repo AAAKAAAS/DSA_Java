@@ -309,6 +309,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AAAKAAAS/DSA_Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AAAKAAAS/DSA_Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3498-reverse-degree-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -370,6 +371,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AAAKAAAS/DSA_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
 ## Stack
