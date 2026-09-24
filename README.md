@@ -802,6 +802,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -881,6 +882,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Interactive
 |  |
 | ------- |
@@ -967,6 +969,7 @@
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1034,6 +1037,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Coloring
 |  |
 | ------- |
