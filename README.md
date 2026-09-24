@@ -795,6 +795,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -873,6 +874,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Interactive
@@ -959,6 +961,7 @@
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1024,6 +1027,7 @@
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
