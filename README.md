@@ -448,6 +448,7 @@
 | [0239-sliding-window-maximum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AAAKAAAS/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AAAKAAAS/DSA_Java/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -792,6 +793,7 @@
 | [0437-path-sum-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -873,6 +875,7 @@
 | [0404-sum-of-left-leaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1032,6 +1035,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/AAAKAAAS/DSA_Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1064,4 +1068,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AAAKAAAS/DSA_Java/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
