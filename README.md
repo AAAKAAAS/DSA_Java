@@ -801,6 +801,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -879,6 +880,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
 |  |
 | ------- |
@@ -964,6 +966,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1030,6 +1033,7 @@
 | [0802-find-eventual-safe-states](https://github.com/AAAKAAAS/DSA_Java/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
