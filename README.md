@@ -80,6 +80,7 @@
 | [0948-sort-an-array](https://github.com/AAAKAAAS/DSA_Java/tree/master/0948-sort-an-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AAAKAAAS/DSA_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AAAKAAAS/DSA_Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
@@ -491,6 +492,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AAAKAAAS/DSA_Java/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AAAKAAAS/DSA_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
