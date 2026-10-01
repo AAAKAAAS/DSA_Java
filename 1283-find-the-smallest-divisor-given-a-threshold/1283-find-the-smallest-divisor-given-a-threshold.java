@@ -15,10 +15,10 @@ class Solution {
     public boolean can(int mid,int nums[],int t){
         int sum=0;
        for(int i=0;i<nums.length;i++){
-           double a=Math.ceil((double)(nums[i])/mid);
+           int a=(nums[i]+mid-1)/mid;
            sum+=a;
        }
-       if(sum<=t)return true;
-       return false;
+       if(sum>t)return false;
+       return true;
     }
 }
