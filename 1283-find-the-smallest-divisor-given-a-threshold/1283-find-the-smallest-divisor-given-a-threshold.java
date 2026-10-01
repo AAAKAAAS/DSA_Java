@@ -17,8 +17,8 @@ class Solution {
        for(int i=0;i<nums.length;i++){
            int a=(nums[i]+mid-1)/mid;
            sum+=a;
+           if(sum>t)return false;
        }
-       if(sum>t)return false;
        return true;
     }
 }
