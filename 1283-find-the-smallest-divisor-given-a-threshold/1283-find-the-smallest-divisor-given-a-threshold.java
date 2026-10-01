@@ -1,24 +1,20 @@
 class Solution {
-    public int smallestDivisor(int[] nums, int t) {
-        Arrays.sort(nums);
-        int low=1,high=nums[nums.length-1],ans=0;
-        while(low<=high){
+    public int smallestDivisor(int[] nums, int threshold) {
+        int low=1;
+        int high=Arrays.stream(nums).max().getAsInt();
+        while(low<high){
+            int sum=0;
             int mid=low+(high-low)/2;
-            if(can(mid,nums,t)){
-                ans=mid;
-                high=mid-1;
+            for(int num:nums){
+                sum+=(num+mid-1)/mid;
             }
-            else low=mid+1;
+            if(sum>threshold){
+                low=mid+1;
+            }
+            else{
+                high=mid;
+            }
         }
-        return ans;
-    }
-    public boolean can(int mid,int nums[],int t){
-        int sum=0;
-       for(int i=0;i<nums.length;i++){
-           int a=(nums[i]+mid-1)/mid;
-           sum+=a;
-           if(sum>t)return false;
-       }
-       return true;
+        return low;
     }
 }
