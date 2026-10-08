@@ -357,6 +357,7 @@
 | [0696-count-binary-substrings](https://github.com/AAAKAAAS/DSA_Java/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AAAKAAAS/DSA_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AAAKAAAS/DSA_Java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AAAKAAAS/DSA_Java/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -395,6 +396,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AAAKAAAS/DSA_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/1078-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/AAAKAAAS/DSA_Java/tree/master/2390-removing-stars-from-a-string) |
@@ -595,6 +597,7 @@
 | [0605-can-place-flowers](https://github.com/AAAKAAAS/DSA_Java/tree/master/0605-can-place-flowers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AAAKAAAS/DSA_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/AAAKAAAS/DSA_Java/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-maximum-69-number) |
@@ -1032,6 +1035,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AAAKAAAS/DSA_Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AAAKAAAS/DSA_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Iterator
 |  |
 | ------- |
