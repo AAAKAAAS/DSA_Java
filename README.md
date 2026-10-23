@@ -72,6 +72,7 @@
 | [0735-asteroid-collision](https://github.com/AAAKAAAS/DSA_Java/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AAAKAAAS/DSA_Java/tree/master/0757-set-intersection-size-at-least-two) |
+| [0766-toeplitz-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/AAAKAAAS/DSA_Java/tree/master/0792-binary-search) |
 | [0877-stone-game](https://github.com/AAAKAAAS/DSA_Java/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AAAKAAAS/DSA_Java/tree/master/0890-lemonade-change) |
@@ -579,6 +580,7 @@
 | [0498-diagonal-traverse](https://github.com/AAAKAAAS/DSA_Java/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AAAKAAAS/DSA_Java/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/1260-shift-2d-grid) |
