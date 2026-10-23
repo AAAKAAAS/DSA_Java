@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/AAAKAAAS/DSA_Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AAAKAAAS/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AAAKAAAS/DSA_Java/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
@@ -293,6 +294,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AAAKAAAS/DSA_Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AAAKAAAS/DSA_Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AAAKAAAS/DSA_Java/tree/master/0412-fizz-buzz) |
@@ -565,6 +567,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AAAKAAAS/DSA_Java/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AAAKAAAS/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0074-search-a-2d-matrix) |
