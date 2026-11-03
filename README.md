@@ -88,6 +88,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/AAAKAAAS/DSA_Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/AAAKAAAS/DSA_Java/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AAAKAAAS/DSA_Java/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AAAKAAAS/DSA_Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AAAKAAAS/DSA_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -585,6 +586,7 @@
 | [0766-toeplitz-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AAAKAAAS/DSA_Java/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AAAKAAAS/DSA_Java/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -819,6 +821,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AAAKAAAS/DSA_Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -901,6 +904,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AAAKAAAS/DSA_Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AAAKAAAS/DSA_Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -990,6 +994,7 @@
 | [0785-is-graph-bipartite](https://github.com/AAAKAAAS/DSA_Java/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AAAKAAAS/DSA_Java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/AAAKAAAS/DSA_Java/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AAAKAAAS/DSA_Java/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
