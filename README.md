@@ -142,6 +142,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AAAKAAAS/DSA_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/AAAKAAAS/DSA_Java/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/AAAKAAAS/DSA_Java/tree/master/3637-trionic-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/AAAKAAAS/DSA_Java/tree/master/3693-climbing-stairs-ii) |
@@ -599,6 +600,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/AAAKAAAS/DSA_Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/AAAKAAAS/DSA_Java/tree/master/2536-increment-submatrices-by-one) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AAAKAAAS/DSA_Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -828,6 +830,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -910,6 +913,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AAAKAAAS/DSA_Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
@@ -998,6 +1002,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AAAKAAAS/DSA_Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AAAKAAAS/DSA_Java/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AAAKAAAS/DSA_Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Rolling Hash
 |  |
 | ------- |
